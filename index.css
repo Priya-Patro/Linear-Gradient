@@ -99,12 +99,14 @@ button {
         -ms-border-radius: 30px;
         -o-border-radius: 30px;
         margin-left: 50px;
+        cursor: pointer
     }
     #myButton2 {
         height: 80px;
         width: 290px;
         font-size: 45px;
         border-radius: 30px;
+        cursor: pointer
     }
     h2 {
         font-size: 60px;
