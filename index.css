@@ -52,12 +52,14 @@ button {
 
 #myButton {
     background-color: #051937;
+    cursor: pointer;
     color: white;
 }
 
 #myButton2 {
     background-color: #008793;
     color: white;
+    cursor: pointer;
 }
 
 @media (max-width:480px) {
